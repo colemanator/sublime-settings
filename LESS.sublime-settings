@@ -1,0 +1,10 @@
+{
+	"extensions":
+	[
+		"less"
+	],
+	"install_prereleases":
+	[
+		"LESS"
+	]
+}

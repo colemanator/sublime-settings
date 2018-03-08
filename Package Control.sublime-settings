@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"install_prereleases":
+	[
+		"LESS"
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Babel",
+		"DA UI",
+		"DocBlockr",
+		"Laravel 5 Snippets",
+		"LESS",
+		"Package Control",
+		"PHP Companion",
+		"PHP-Twig"
+	]
+}

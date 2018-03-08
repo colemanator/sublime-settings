@@ -1,0 +1,67 @@
+{
+	"added_words":
+	[
+		"param",
+		"num",
+		"php",
+		"webpack",
+		"eslint",
+		"js",
+		"plugin",
+		"rexlabs",
+		"debounce",
+		"config",
+		"cli",
+		"semistandard",
+		"env",
+		"css",
+		"precommit",
+		"dev",
+		"Siteloft",
+		"wordpress",
+		"byron",
+		"blog",
+		"jquery",
+		"utils",
+		"",
+		"url",
+		"img",
+		"Customise",
+		"customisations",
+		"optimisation",
+		"src",
+		"plugins",
+		"polyfill",
+		"Bugsnag",
+		"autoplay",
+		"stacktrace",
+		"Ensurse",
+		"Facebook"
+	],
+	"color_scheme": "Packages/DA UI/DA Light.tmTheme",
+	"draw_white_space": "none",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 6,
+	"line_padding_top": 6,
+	"phpunit-sublime-terminal": "iTerm",
+	"spell_check": true,
+	"tab_size": 4,
+	"theme": "DA.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"ui_font_roboto_mono": true,
+	"ui_font_size_small": false,
+	"ui_separator": true,
+	"word_wrap": false
+}
