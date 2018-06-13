@@ -17,6 +17,7 @@
 		"LESS",
 		"Package Control",
 		"PHP Companion",
-		"PHP-Twig"
+		"PHP-Twig",
+		"phpunitkit"
 	]
 }

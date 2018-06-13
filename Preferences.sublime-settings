@@ -36,19 +36,23 @@
 		"autoplay",
 		"stacktrace",
 		"Ensurse",
-		"Facebook"
+		"Facebook",
+		"fallback",
+		"Memoize",
+		"middleware",
+		"Bezier",
+		"nullable"
 	],
 	"color_scheme": "Packages/DA UI/DA Light.tmTheme",
 	"draw_white_space": "none",
 	"folder_exclude_patterns":
 	[
 		".svn",
-		".git",
 		".hg",
 		"CVS",
-		"node_modules"
+		".phpstorm.meta.php"
 	],
-	"font_size": 16,
+	"font_size": 17,
 	"ignored_packages":
 	[
 		"Vintage"

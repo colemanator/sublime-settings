@@ -2,5 +2,6 @@
 	"accent_color": "#ff9701",
 	"font_size": 14,
     "scrollbar_width": 8,
-    "scrollbar_margin": 4
+    "scrollbar_margin": 4,
+    "overlay_input_background_color": "#f2f2f2",
 }
